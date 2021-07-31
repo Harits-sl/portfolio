@@ -34,7 +34,7 @@ const Jumbotron = () => {
           </Col>
           <Col md={5} className="me-5">
             <h1 className="fw-bold" style={{ fontSize: '3.6rem' }}>
-              Hi there,<br></br>I'am <span className="text-blue"> Harits</span>
+              Hi,<br></br>I'am <span className="text-blue"> Harits</span>
             </h1>
             <h2 className="fs-4 fw-semi-bold mt-2 mb-3">Frontend developer</h2>
           </Col>
