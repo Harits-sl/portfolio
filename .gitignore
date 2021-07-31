@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# scss
+/src/assets/scss
+
 # testing
 /coverage
 
