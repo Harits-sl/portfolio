@@ -27,7 +27,7 @@ const Jumbotron = () => {
               alt: 'icon linkedin',
             })}
             {iconSosmed({
-              url: 'https://github.com/Harits-sl',
+              url: '#',
               image: github,
               alt: 'icon github',
             })}
