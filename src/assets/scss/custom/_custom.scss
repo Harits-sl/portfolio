@@ -1,0 +1,37 @@
+.jumbotron-icon {
+  margin-top: 3rem;
+}
+
+.jumbotron-height {
+  height: 100vh;
+}
+
+.nav-white {
+  background-color: #ffffff;
+}
+
+.nav-box-shadow {
+  box-shadow: 0px 1px 8px -8px $blue-900;
+}
+
+.card-skill {
+  border-radius: 10px;
+  box-shadow: 0px 1px 16px -8px $blue-900;
+}
+
+.card-certification {
+  box-shadow: 0px 1px 16px -8px $blue-900;
+  cursor: pointer;
+}
+
+.footer {
+  color: $gray-200;
+  background-color: $indigo-900;
+  font-size: 14px;
+}
+
+@include media-breakpoint-up(md) {
+  .jumbotron-icon {
+    margin-top: 0 !important;
+  }
+}
